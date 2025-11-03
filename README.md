@@ -4,7 +4,7 @@ Ovo je repozitorijum sa domaćim zadacima iz predmeta **OOP2**.
 
 ---
 
-## 1. Prvi domaći zadatak – Torte (20 poena)
+## 1. Prvi domaći zadatak – Torte 
 
 **Opis:**  
 Java aplikacija koja obrađuje podatke o ručno pravljenim tortama.  
@@ -15,7 +15,7 @@ Java aplikacija koja obrađuje podatke o ručno pravljenim tortama.
 
 ---
 
-## 2. Drugi domaći zadatak – Kamen-Papir-Makaze-Guster-Spok (15 poena)
+## 2. Drugi domaći zadatak – Kamen-Papir-Makaze-Guster-Spok
 
 **Opis:**  
 Java igra putem soketa između servera i klijenata.  
@@ -31,7 +31,7 @@ Java igra putem soketa između servera i klijenata.
 
 ---
 
-## 3. Treći domaći zadatak – Kamen-Papir-Makaze-Guster-Spok preko RMI (15 poena)
+## 3. Treći domaći zadatak – Kamen-Papir-Makaze-Guster-Spok preko RMI 
 
 **Opis:**  
 Distribuirana Java igra preko RMI.  
